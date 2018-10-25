@@ -1,0 +1,47 @@
+li a{
+    color: black;
+}
+
+.alert{
+    font-size:20px;
+    color: red;
+}
+
+.form-group>p{
+    text-align: center;
+}
+/*搜索*/
+.search{
+    padding:10px;
+    border: 1px solid #ffffff;
+    border-top: none;
+}
+.glist{
+    padding-top: 10px;
+}
+.glist .alert{
+   margin: 10px;
+    color:#1b6d85;
+}
+/*搜索*/
+/*底部*/
+footer{
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+    background: #444444;
+    color: #ffffff;
+}
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
+footer a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+footer ul>li {
+    display: inline-block;
+    margin: 5px;
+}
+/*底部*/
